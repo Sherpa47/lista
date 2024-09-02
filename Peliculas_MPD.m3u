@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_mundo_es_nuestro-968175243-mmed.jpg", El mundo es nuestro
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba9b0e8649b1836c3cb66058f0d429b6:c601ae0585e8209e542efa1821bdb737
+https://media-spanishflix.partner.maginepro.com/527dfc2e-a1de-49c9-b3f8-13c7ec635c65/AccurateDTManifest.mpd
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/los_violadores_del_amanecer-727019452-mmed.jpg", Los violadores del amanecer
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2956d52053e5ba970a7f8687d7502c49:71a626fc3c5db7e8a91f54c9df9023b4
+https://media-spanishflix.partner.maginepro.com/5465e8d8-c4af-4ec0-9d35-6bcbd17083e8/AccurateDTManifest.mpd
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/tres_dias_de_libertad-840169212-mmed.jpg", Tres días de libertad
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04d05d5b721e67f3f78d3d3af449b6c3:716fb46d92175ff194e4fc2947b76ebb
+https://media-spanishflix.partner.maginepro.com/mediaconvert/60a95170-f2b6-44ae-ae3a-69e6fdb78e42/AccurateDTManifest.mpd?version=2
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/juventud_drogada-893158098-mmed.jpg", Juventud drogada
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f8c7845e9110abccfead0b020444453:ab9ec115d981116e5359fe1d822e5f2b
+https://media-spanishflix.partner.maginepro.com/mediaconvert/c5252d16-3793-481e-b883-ae044847461e/AccurateDTManifest.mpd
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/barcelona_sur-577765542-mmed.jpg", Barcelona Sur
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8f401a2a757e42c08ef79fc78c5fdae:3d7759905db7c1686944c5e9d45da617
+https://media-spanishflix.partner.maginepro.com/5e229178-df06-44a9-a3f5-c8b202a24baa/AccurateDTManifest.mpd
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/27_horas-974983321-mmed.jpg", 27 horas
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c77b59c893a28c37b1b56aef3f098ca0:13a8311915cfad1f71697773eddc65ba
+https://media-spanishflix.partner.maginepro.com/mediaconvert/403a7f82-fbe6-4b36-a3cf-341b93b2eaaf/AccurateDTManifest.mpd?version=4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/chocolate-266358558-mmed.jpg", Chocolate
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6834dad1f1743c3a377094d5c8cac16d:90a2cd0e66efd527e103536b58f82403
+https://media-spanishflix.partner.maginepro.com/mediaconvert/9e634ef1-dc3f-4a95-bced-b1b7cc6d92de/AccurateDTManifest.mpd
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/fanny_pelopaja-286325161-mmed.jpg", Fanny "Pelopaja"
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74489ef61f798ca9878a109e72c8fbb0:5da76eb511781eb1c69af4bb5292cdd3
+https://media-spanishflix.partner.maginepro.com/726a232a-f935-47cb-a447-c1e3507ac5d5/AccurateDTManifest.mpd
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_relicario-226731641-mmed.jpg", El relicario 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5291d6ec6c0ee7df4432f78678e82f5:04d89c11e715ed776fcb5cc9a7b20f68
+https://media-spanishflix.partner.maginepro.com/875f9422-e74c-4109-a47a-294cb419c9a9/AccurateDTManifest.mpd
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/una_senora_llamada_andres-655478578-mmed.jpg", Una señora llamada Andrés
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f3e1d8a72018e230bfc91ac9cdb0bd9:fc987ee5fb03c441ec3837df9af5b67a
+https://media-spanishflix.partner.maginepro.com/a38f9dec-e42c-4c77-b0d8-e07e6505423b/AccurateDTManifest.mpd
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_canto_del_gallo-266613713-mmed.jpg", El canto del gallo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aca432168d01d81e9ae528bd17667abb:ff46b30d94b806e6d52ac8e40de74494
+https://media-spanishflix.partner.maginepro.com/mediaconvert/8f6c564c-ed52-47fb-bbdd-02f94aaab1a5/AccurateDTManifest.mpd?version=2
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/muros-157133034-mmed.jpg", Muros 2015
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=329106cbb2ac42f89c268af3e12066fa:930a983ba2add08db39826e609798acf
+https://manifest.prod.boltdns.net/manifest/v1/dash/live-baseurl/bccenc/4880098471001/87d671a5-d596-47c4-a36c-c5fd456bdf20/6s/manifest.mpd?fastly_token=NjZkNGFjNDFfMTUyZTNhMzE5MDdlMDk1NjM3MDYzM2E2OWYzMmYyZWZmODk5NGUwYWUyZDk3NDg2MzQxZTc4NTVjMTQyNDY0YQ%3D%3D
+
+
