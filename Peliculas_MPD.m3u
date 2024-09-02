@@ -63,7 +63,7 @@ https://media-spanishflix.partner.maginepro.com/a38f9dec-e42c-4c77-b0d8-e07e6505
 
 #EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_64bffe289973e4703802ccdb.png", Araña
 group-logo="https://media.tvup.cloud/canales/color_lg_64bffe289973e4703802ccdb.png",Evento 05
-https://rtvedrmstaging.rtve.es/40/62/7006240/7006240.mpd
+https://rtvedrmstaging.rtve.es/40/62/7006240/7006240.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_64bffe289973e4703802ccdb.png", LaLiga+"
 group-logo="https://media.tvup.cloud/canales/color_lg_64bffe289973e4703802ccdb.png",Evento 05
