@@ -61,11 +61,9 @@ https://media-spanishflix.partner.maginepro.com/875f9422-e74c-4109-a47a-294cb419
 #KODIPROP:inputstream.adaptive.license_key=4f3e1d8a72018e230bfc91ac9cdb0bd9:fc987ee5fb03c441ec3837df9af5b67a
 https://media-spanishflix.partner.maginepro.com/a38f9dec-e42c-4c77-b0d8-e07e6505423b/AccurateDTManifest.mpd
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_canto_del_gallo-266613713-mmed.jpg", El canto del gallo
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aca432168d01d81e9ae528bd17667abb:ff46b30d94b806e6d52ac8e40de74494
-https://media-spanishflix.partner.maginepro.com/mediaconvert/8f6c564c-ed52-47fb-bbdd-02f94aaab1a5/AccurateDTManifest.mpd?version=2
+#EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_64bffe289973e4703802ccdb.png", Araña
+group-logo="https://media.tvup.cloud/canales/color_lg_64bffe289973e4703802ccdb.png",Evento 05
+https://rtvedrmstaging.rtve.es/40/62/7006240/7006240.mpd
 
 #EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/color_lg_64bffe289973e4703802ccdb.png", LaLiga+"
 group-logo="https://media.tvup.cloud/canales/color_lg_64bffe289973e4703802ccdb.png",Evento 05
