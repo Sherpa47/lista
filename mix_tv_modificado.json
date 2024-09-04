@@ -1,0 +1,4037 @@
+[
+  {
+    "name": "📺 GENERAL",
+    "samples": [
+      {
+        "name": "24H",
+        "uri": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 1",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:1_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 1 - OPC2",
+        "uri": "https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
+        "key": "7740f8ae4223ce5ba293028f7f78f1c1",
+        "kid": "a3abc44525eef3b0a7af9138a9dbe34a",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "LA 2",
+        "uri": "https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd",
+        "kid": "ecd7ee75e0e88f267ace6bd7d9d70d83",
+        "key": "eb196d2b2dc28418f465532c5d1182c0",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "LA 2 - OPC2",
+        "uri": "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ANTENA 3",
+        "uri": "https://ott.zapitv.com/live/eds_c2/test/dash_live_enc/test.mpd",
+        "kid": "8a9e74b80c7cefa177926fc90eb05988",
+        "key": "54e2cb64384e73b37b19d8c50e9479a4",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ANTENA 3 - OPC2",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:7_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CUATRO",
+        "uri": "https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd",
+        "kid": "257fafffad77ccb5b8224d8fac6c9d62",
+        "key": "81ebfc96640b0c8446c232f198b97dec",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "CUATRO - OPC2",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TELECINCO",
+        "uri": "https://ott.zapitv.com/live/eds_c2/telecinco/dash_live_enc/telecinco.mpd",
+        "kid": "6e1dbacf4b932a11cd6cecb741def23d",
+        "key": "0375536d6e512003972d1d6ea1f4d7c0",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "LA SEXTA",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:11_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "MEGA",
+        "uri": "https://ott.zapitv.com/live/eds_c2/mega/dash_live_enc/mega.mpd",
+        "kid": "7a70eab585ae43502fc74c80ff36e220",
+        "key": "fdf388a77f8e45cc28e8ba7887b8f29a",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "TRECE",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:24_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TRECE - OPC2",
+        "uri": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CALLE 13",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TEN",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "STAR TVE",
+        "uri": "https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "SIN FILTROS",
+        "uri": "https://daiconnect.com/live/hls/tvup/tivify-sinfiltros/.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "EL TORO TV",
+        "uri": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "EL TORO TV - OPC2",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:266_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL SUR",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:29_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TV GALICIA",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:47_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ETB 1",
+        "uri": "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ETB BASQUE",
+        "uri": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ETB 2",
+        "uri": "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ETB 3",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ETB 4",
+        "uri": "http://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:273_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ETB DEPORTES 1",
+        "uri": "https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ETB DEPORTES 1 - OPC2",
+        "uri": "https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TV3 CATALUNYA",
+        "uri": "https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ARAGON TV",
+        "uri": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL EXTREMADURA SAT",
+        "uri": "http://cdnapi.kaltura.com/p/0/sp/0/playManifest/entryId/1_in8cxw3w/format/Applehttp/.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TELEMADRID INT",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:32_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TELEMADRID",
+        "uri": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LAOTRA",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DISTRITO TV VALENCIA",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:119_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DISTRITO TV VALENCIA - OPC2",
+        "uri": "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DISTRITO TV VALENCIA - OPC3",
+        "uri": "https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CMM",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:31_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 7",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 8 MEDITERRANEO",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:80_HD.smil/manifest.mpd",
+        "kid": "e0483c2ac22a4cda82c68b61fbbd26ce",
+        "key": "ed08d45eaecdc654c294e4c5ef0f05d5",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "LA 8 MEDITERRANEO - OPC2",
+        "uri": "https://streaming004.gestec-video.com/hls/8TV.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "NAUTICA TV",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:94_HD.smil/manifest.mpd",
+        "kid": "497e8784e6184eeea3aa53422eb8e4fd",
+        "key": "56573789a35b592cd49ebe5a78ad2c7a",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "AGROTENDENCIA",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket05/smil:95_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "NESTING TV",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5953",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "EL PAIS",
+        "uri": "https://daiconnect.com/live/hls/tvup/tivify-elpais/.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "NEGOCIOS TV",
+        "uri": "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "EL CONFIDENCIAL",
+        "uri": "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "VINX TV",
+        "uri": "https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "101TV MALAGA",
+        "uri": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "MALAGA TV",
+        "uri": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ONDA CADIZ TV",
+        "uri": "https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "M95 MARBELLA",
+        "uri": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "SIERRA DE CADIZ",
+        "uri": "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "45 TV",
+        "uri": "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "PTV MALAGA",
+        "uri": "https://streamer.zapitv.com/PTV-malaga/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "COSTA NOROESTE TV",
+        "uri": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TELEONUBA TV",
+        "uri": "https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CONDAVISION TV",
+        "uri": "https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "COSTA TV",
+        "uri": "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ONDA ALGECIRAS TV",
+        "uri": "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ESTEPONA TV",
+        "uri": "https://cloudvideo.servers10.com:8081/8022/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LUZ TV",
+        "uri": "https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DOÑANA",
+        "uri": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "PTV LINARES",
+        "uri": "https://streamer.zapitv.com/ptv-linarez/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DIEZ TV UBEDA",
+        "uri": "https://streaming.cloud.innovasur.es/mmj/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DIEZ TV LAS VILLAS",
+        "uri": "https://streaming.cloud.innovasur.es/mmj2/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "COSTA DEL SOL TV",
+        "uri": "https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "MIJAS 3.40 TV",
+        "uri": "https://streaming004.gestec-video.com/hls/MIJAS.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "PTV GRANADA",
+        "uri": "https://streamer.zapitv.com/PTV-granada/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "PTV SEVILLA",
+        "uri": "https://streamer.zapitv.com/PTV_sevilla/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "PTV CORDOBA",
+        "uri": "https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TVM CORDOBA",
+        "uri": "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "PTV ALMERIA",
+        "uri": "https://streamer.zapitv.com/ptv_almeria/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "25 BARBASTRO TV",
+        "uri": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 1 CANARIAS",
+        "uri": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 1 CANARIAS - OPC2",
+        "uri": "https://rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can_main_720.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 2 CANARIAS",
+        "uri": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 2 CANARIAS - OPC2",
+        "uri": "https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "24H CANARIAS",
+        "uri": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "24H CANARIAS - OPC2",
+        "uri": "https://rtvelivestream.akamaized.net/rtvesec/can/24h_can_main_dvr.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "MIRAME TV",
+        "uri": "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "4 TENERIFE",
+        "uri": "https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RTV MOGAN",
+        "uri": "https://cloudvideo.servers10.com:8081/8028/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LANCELOT TV",
+        "uri": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "FUENTEVENTURA TV",
+        "uri": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "POPULAR TV CANTABRIA",
+        "uri": "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "IMAS TV",
+        "uri": "https://secure3.todostreaming.es/live/imastv-livestream.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ALCARRIA TV",
+        "uri": "https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ALCARRIA TV - OPC2",
+        "uri": "https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "Canal 4 MANCHA CENTRO",
+        "uri": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TV ARANDA",
+        "uri": "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TV3CAT",
+        "uri": "https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "3/24",
+        "uri": "https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 1 CATALUÑA",
+        "uri": "https://ztnr.rtve.es/ztnr/3293681.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 1 CATALUÑA - OPC2",
+        "uri": "https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 1 CATALUÑA - OPC3",
+        "uri": "https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 2 CATALUÑA",
+        "uri": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LA 2 CATALUÑA - OPC2",
+        "uri": "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "24H CATALUÑA",
+        "uri": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "24H CATALUÑA - OPC2",
+        "uri": "https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "BON DIA TV",
+        "uri": "https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "BETEVE",
+        "uri": "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL 4 TELEVISION",
+        "uri": "https://limited35.todostreaming.es/live/mitjans-livestream.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL TERRES DE L'EBRE",
+        "uri": "https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "EMPORDA TV",
+        "uri": "https://video3.lhdserver.es/empordatv2/live.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL TERRASSA",
+        "uri": "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL TARONJA",
+        "uri": "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL TARONJA ANOIA",
+        "uri": "https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL TARONJA OSONA",
+        "uri": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TV SABADELL VALLES",
+        "uri": "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "FITEL TELEVISION",
+        "uri": "https://tv.mywifisocial.es/live.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "7 TELEVALENCIA",
+        "uri": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "INTERCOMARCAL TV",
+        "uri": "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "INTERCOMARCAL TV - OPC2",
+        "uri": "https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "INTERCOMARCAL TV - OPC3",
+        "uri": "https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TELE ELX",
+        "uri": "https://tvdirecto.teleelx.es/stream/teleelx.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RIBERA TV",
+        "uri": "https://common01.todostreaming.es/live/ribera-livestream.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ALACANTI TV",
+        "uri": "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TV ARTEQUATRE",
+        "uri": "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TV VEGA BAJA",
+        "uri": "https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "BURRIANA TV",
+        "uri": "https://www.burrianateve.com/hls/btv.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ELCHE 7 TV",
+        "uri": "https://elche7tv.gestec-video.com/hls/canal2.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL 56",
+        "uri": "https://videos.canal56.com/directe/stream/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "UNIVERS TV",
+        "uri": "https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TV ALMASSORA",
+        "uri": "https://live.fullsport.es/hls/tvalmassora_src/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "PUNT 3",
+        "uri": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CIUDADES DEL OCIO TV",
+        "uri": "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ONDA VALENCIA",
+        "uri": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "UNE VINALOPE",
+        "uri": "https://streamingtvi.gestec-video.com/hls/unesd.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TV FERROL",
+        "uri": "https://directo.tvferrol.es/tv.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL 4 TV",
+        "uri": "https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "MELILLA TV",
+        "uri": "https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "HAMAIKA TELEBISTA",
+        "uri": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TELE 7",
+        "uri": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "GOIENA TV",
+        "uri": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DURANGALDEKO",
+        "uri": "https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DURANGALDEKO - OPC2",
+        "uri": "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "UROLA TELEBISTA",
+        "uri": "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TPA7",
+        "uri": "https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "7RM",
+        "uri": "https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL 1 MAR MENOR TORRE PACHECO",
+        "uri": "https://directo.tuwebtv.es/canal1.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ARABI TV",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket01/smil:65_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ARABI TV - OPC2",
+        "uri": "https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ACTIVA TV",
+        "uri": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CADENA ELITE",
+        "uri": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL DIOCESANO",
+        "uri": "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CRISTIANA TV",
+        "uri": "https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ESTUTELE",
+        "uri": "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "KROLUS TV",
+        "uri": "https://vcnkrolustv.teleosmedia.com/linear/krolustv/krolustv/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LIRA TV",
+        "uri": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LOGOS TV",
+        "uri": "https://streamer1.streamhost.org/salive/logosH/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LOGOS TV ESTUDIO",
+        "uri": "https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LOGOS TV KIDS",
+        "uri": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LOGOS TV SALUD",
+        "uri": "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "NOROESTE TV",
+        "uri": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "PLATZI TV",
+        "uri": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "FACTORIA DE CARNAVAL TV",
+        "uri": "https://eu1.servers10.com:8081/8116/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RADIO TELEVISION MOGAN",
+        "uri": "https://cloudvideo.servers10.com:8081/8028/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RTV VIDA",
+        "uri": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "SOLIDARIA TV",
+        "uri": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "STZ TELEBISTA",
+        "uri": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TAROTEAME",
+        "uri": "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TBN ESPAÑA",
+        "uri": "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "TELEGANES",
+        "uri": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TELEGANES - OPC2",
+        "uri": "https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TELEVISION CONSCIENTE",
+        "uri": "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "VERBENA TV",
+        "uri": "https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      }
+    ]
+  },
+  {
+    "name": "🎬 CINE Y SERIES",
+    "samples": [
+      {
+        "name": "AMC",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:87_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "AMC - OPC2",
+        "uri": "https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ATRESERIES",
+        "uri": "https://ott.zapitv.com/live/eds_c2/atreseries_hd/dash_live_enc/atreseries_hd.mpd",
+        "kid": "2f9f8aec731ad9b6da84e72df2b318fa",
+        "key": "8581c19cf83e9b0a872484377ea8c162",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "TCM",
+        "uri": "https://ott.zapitv.com/live/eds_c2/tcm_moderno/dash_live_enc/tcm_moderno.mpd",
+        "kid": "1ac0887faa9a185c93a2b989bff2e24b",
+        "key": "22831d8c2d1133edf6b8db84087b5854",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "STAR CHANNEL",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:248_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "AXN",
+        "uri": "https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd",
+        "kid": "17b4b5cdbb271e7f6d97e38a04a2d27f",
+        "key": "75aef15c20e7a17c64b71d2f840a6f5d",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "AXN MOVIES",
+        "uri": "https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd",
+        "kid": "f9e4be09926c262effa2b5381ae3553d",
+        "key": "d630e04e0c5e3f98dc38840be1c1dd4c",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ENERGY",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:19_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "FACTORÍA DE FICCIÓN",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:16_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "GOL PLAY",
+        "uri": "http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP156/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_PC_AVC_ENC_RB_HD",
+        "kid": "483b104a65a7461a9062b63ae6bb5b6b",
+        "key": "048fd4b8e67808b56c6fbde51e024200",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "BE MAD",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:20_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "NEOX",
+        "uri": "https://ott.zapitv.com/live/eds_c2/neox/dash_live_enc/neox.mpd",
+        "kid": "6da74168743cd45b6b65485269dcd050",
+        "key": "36453fecd12b91a30958fd340ca1d087",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "NOVA",
+        "uri": "https://ott.zapitv.com/live/eds_c2/nova/dash_live_enc/nova.mpd",
+        "kid": "2fa4cb9b8c4bf791c9489f14918c3c53",
+        "key": "3da828bf72864f063e471630816d1d2e",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "SONY CINE",
+        "uri": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "PARAMOUNT NETWORK",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "SYFY",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:81_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "COSMO",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CANAL COCINA",
+        "uri": "https://ott.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd",
+        "key": "7ad1ffd9308b35d961a6dae3c596fa57",
+        "kid": "d1622e41b898458f889c697b0de3d1f0",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "CANAL HOLLYWOOD",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:82_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "SUNDANCE TV",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:88_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "XTRM",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:86_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DARK",
+        "uri": "https://ott.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd",
+        "kid": "ee3899fcba09e6de20355394106ca745",
+        "key": "d84b6489ff8e5aeecde84a659c0617b8",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "SOMOS",
+        "uri": "https://ott.zapitv.com/live/eds_c2/somos/dash_live_enc/somos.mpd",
+        "kid": "8a8727d4973b18f61b29ac751b8a7522",
+        "key": "10a11fe6ef837a5851cc6eeea7c08dc2",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DISCOVERY CHANNEL",
+        "uri": "https://ott.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discovery_channel_hd.mpd",
+        "kid": "d37f084ced3f48cd8e7ab2250f26030d",
+        "key": "7bae03ffb6f8a3539e8f93c0675e9c0a",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DKISS",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:25_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DMAX",
+        "uri": "https://ott.zapitv.com/live/eds_c2/dmax/dash_live_enc/dmax.mpd",
+        "kid": "73e55164b719d1210351f86093bc3ec3",
+        "key": "792ffb4e6ebbe2aae394061f01948e40",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DECASA",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:84_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "BUEN VIAJE",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "BREAK",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:89_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ODISEA",
+        "uri": "https://ott.zapitv.com/live/eds_c2/odisea_hd/dash_live_enc/odisea_hd.mpd",
+        "kid": "a7837ebd0bfe0116ce5de21c7bc6158b",
+        "key": "dd2decde9c929bddbee7e47bb68cfdca",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "HISTORIA",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:90_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "NATIONAL GEOGRAPHIC WILD",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:258_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "NATIONAL GEOGRAPHIC",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:257_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TRAVELXP",
+        "uri": "https://36c99fb4c50649bf803389624beea453.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TravelXP/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CINES VERDI TV",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:152_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CINE FEEL GOOD",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:151_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "ACONTRA+ CINE",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:149_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CINE FRIKI",
+        "uri": "https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai=SSSLIVE",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "FILM&CO",
+        "uri": "https://daiconnect.com/live/hls/tvup/tvfy-filmco/.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RUNTIME",
+        "uri": "https://daiconnect.com/live/hls/tvup/tvfy-rtss/.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RUNTIME ACCION",
+        "uri": "https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RUNTIME COMEDIA",
+        "uri": "https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fgcph1khrr3ct/rc_es.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RUNTIME ROMANCE",
+        "uri": "https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RUNTIME CINE Y SERIES",
+        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "¡HOLA! PLAY",
+        "uri": "https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "MYTIME MOVIE NETWORK",
+        "uri": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN TV ACTION",
+        "uri": "https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN TV CINE ESPAÑOL",
+        "uri": "https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN TV COMEDY",
+        "uri": "https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN TV ESTILO Y VIDA",
+        "uri": "https://rakuten-estilo-y-vida-2-es.xiaomi.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN TV FAMILY",
+        "uri": "https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN TV ROMANCE",
+        "uri": "https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN TV SERIES CRIME",
+        "uri": "https://rakuten-seriescrime-2-es.xiaomi.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN TV SHOWS",
+        "uri": "https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN TV SPOTLIGHT",
+        "uri": "https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN TV THRILLER",
+        "uri": "https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN TV TOP FREE",
+        "uri": "https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "RAKUTEN VIKI",
+        "uri": "https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      }
+    ]
+  },
+  {
+    "name": "⚽ DEPORTIVOS",
+    "samples": [
+      {
+        "name": "LALIGA INSIDE",
+        "uri": "https://daiconnect.com/live/hls/tvup/tvfy-ligainside/.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "ONETORO",
+        "uri": "https://ott.zapitv.com/live/eds_c2/MUNDOTORO/dash_live_enc/MUNDOTORO.mpd",
+        "kid": "e3b0124d10c9af2d734312b4a9f41c5c",
+        "key": "398eb00f5a369b3df54130a8fd9ad0ed",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "TOROLÉ",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:49_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DBIKE TV",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:150_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "SURF CHANNEL",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/manifest.mpd",
+        "kid": "57d2ac9210cfbca3596cc679a01c8b29",
+        "key": "d5e35c0f39c76adf24853d7ea18c71e7",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "REAL BETIS TV",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:62_HD.smil/manifest.mpd",
+        "kid": "ad781c9e58584c19bb8bb3158c566315",
+        "key": "a337e904793a94de1079aa35e8d32f79",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "SEVILLA FC TV",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:52_HD.smil/manifest.mpd",
+        "kid": "f79fb516f2224072a6932aeef61eef00",
+        "key": "96ae6fb8635e23c7e32d72d18e6f86df",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "REAL MADRID TV",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "REAL MADRID TV - OPC2",
+        "uri": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "REAL MADRID TV (ENGLISH)",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "🏆 SPORTS",
+    "samples": [
+      {
+        "name": "BEIN SPORTS XTRA Ñ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "SSC 1",
+        "uri": "https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
+        "key": "550727de4c96ef1ecff874905493580f",
+        "kid": "d84c325f36814f39bbe59080272b10c3",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "SSC 2",
+        "uri": "https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd",
+        "key": "b5dcf721ab522af92a9d3bf0bd55b596",
+        "kid": "8bcfc55359e24bd7ad1c5560a96ddd3c",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "SSC 3",
+        "uri": "https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd",
+        "key": "5e1503f3398b34f5099933fedab847ef",
+        "kid": "7de5dd08ad8041d586c2f16ccc9490a1",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "SSC 4",
+        "uri": "https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd",
+        "key": "bf8756fbb866ee2d5c701c2289dd8de3",
+        "kid": "5c672f6b85a94638872d0214f7806ed4",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "SSC 5",
+        "uri": "https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd",
+        "key": "adc08ee1c20a734972a55c9aebbd1888",
+        "kid": "c88b512b17ab4f6cb09eb0ff4a1056ed",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "SSC EXTRA 1",
+        "uri": "https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd",
+        "key": "03c17e28911f71221acbc0b11f900401",
+        "kid": "ecbc9e6fe6b145efb6658fb5cf7427f8",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "SSC EXTRA 2",
+        "uri": "https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd",
+        "key": "cf074ffd2646c9c2f8513b47fa57bc30",
+        "kid": "4d89249bd4ca4ebc9e70443265f9507d",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "SSC EXTRA 3",
+        "uri": "https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd",
+        "key": "d3006ee69e77b25939728ebf30d3180a",
+        "kid": "98cfd6fd4812497fb24dc75f7545f2ee",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "SSC NEWS",
+        "uri": "https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd",
+        "key": "362133e9cb13189ad4fe095ced216f60",
+        "kid": "3d04975236a44f62857d181597705ee6",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "VIAPLAY SPORT",
+        "uri": "https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd",
+        "kid": "d8d0506523d95fc082d6caef60e84979",
+        "key": "69992fd2d7b9211d41ecc2243803e87c",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "TV4 SE",
+        "uri": "https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd",
+        "kid": "d094d1401faa5cd29cfb361274629aad",
+        "key": "793d3bf7e16e9300c0298fb2b3ba6f68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "AC MILAN TV",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-025/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "MLB NETWORK (USA)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-026/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "INTER MILAN TV",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-033/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "NBA",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-035/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "REDBULL TV",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-036/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "NOSSO FUTEBOL",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-046/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN ELEVEN 1 (NL)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-047/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN ELEVEN 1 (FR)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-048/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN ELEVEN PRO LEAGUE 1 (NL)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-049/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN ELEVEN PRO LEAGUE 1 (FR)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-050/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "UNBEATEN (ES)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-044/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "EUROSPORT 1 (ES)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-031/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "EUROSPORT 2 (ES)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-032/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "EUROSPORT 1 (DE)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-027/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "EUROSPORT 2 (DE)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "EUROSPORT 1 (IT)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-029/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "EUROSPORT 2 (IT)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-030/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "FUSSBALL (DE)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "NFL NETWORK (USA)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-023/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "WWE NETWORK (USA)",
+        "uri": "https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd",
+        "kid": "00208c93f4358213b52220898b962385",
+        "key": "8ae6063167228e350dd132d4a1573102",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "VOTV",
+        "uri": "https://tvup-live.akamaized.net/votv/votv.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "VOTV - OPC2",
+        "uri": "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "ESPORT3",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:48_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TDP",
+        "uri": "https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd",
+        "key": "8cbb79a6410cc0d0d80d148f282afd95",
+        "kid": "1937b8f0dc833e0a8f457240972e440d",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "TDP - OPC2",
+        "uri": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "USA NETWORK",
+        "uri": "https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
+        "kid": "252a671825ba31ec8433f978c32ccf6d",
+        "key": "ee560759ecc8d2274df2e63fcef56915",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "BILLIARD TV",
+        "uri": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "FIGHT NETWORK",
+        "uri": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TENNIS CHANNEL",
+        "uri": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "MUTV",
+        "uri": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "HARD KNOCKS",
+        "uri": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "FIFA+ (ES)",
+        "uri": "https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "FIFA+ (DE)",
+        "uri": "https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "FIFA+ (IT)",
+        "uri": "https://6d42a49f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c19ITFM/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "PLAY SPORTS 1 (NL)",
+        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-051/stream.mpd",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "PLAY SPORTS 2 (NL)",
+        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-052/stream.mpd",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "PLAY SPORTS 3 (NL)",
+        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-053/stream.mpd",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA ESPORT",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA SPORT 1",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena1.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA SPORT 1X2",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA SPORT 2",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena2.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA SPORT 3",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena3.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA SPORT 4",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena4.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA SPORT 5",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena5.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA SPORT 6",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena6.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA FIGHT",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA SPORT PREMIER LEAGUE",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/premier_league.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA 1 PREMIUM",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA 2 PREMIUM",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ARENA 3 PREMIUM",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd",
+        "key": "e41c3a6f7532b2e3a828d9580124c89d",
+        "kid": "c18b6aa739be4c0b774605fcfb5d6b68",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      }
+    ]
+  },
+  {
+    "name": "⚽ DAZN",
+    "samples": [
+      {
+        "name": "LALIGA TV BAR",
+        "uri": "https://d39yh1ptkc8cq7.cloudfront.net/out/v1/960cc05ff5d342b6b87d93fd667eb1bf/index.mpd",
+        "key": "8bbfb3c188c2b803b1f820d81267edab",
+        "kid": "af2a65794e574a7faefdc8937ba007be",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN LALIGA",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd",
+        "key": "7b1f85f6e81059473b114c16a25c829a",
+        "kid": "43d1c3b25207ff38b22ccfe17d302367",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN LALIGA - OPC2",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-043/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN 1 (ES)",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
+        "key": "bff19ab0a51cf14e848389b152913fd0",
+        "kid": "44dd9cd370b08a868ead115fe84ecfde",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN 2 (ES)",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd",
+        "key": "f3f061ded9b70e8160590d5802ecda6d",
+        "kid": "0eab5a3f3e3b4ba5d42d40ca30d17571",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN 3 (ES)",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd",
+        "key": "6ba800673b20776c0c850130d45e1920",
+        "kid": "bad8efff688c0dbb3711e4a7114c22a3",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN 4 (ES)",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd",
+        "key": "723593c70e2d4c4862754398e80168f8",
+        "kid": "d27104d427e4f87e75b19395a9f8796b",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN F1",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
+        "kid": "1061be12d303247426ec25e8369b2647",
+        "key": "bd622b0e610295de3b0bccb850ccaaaa",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "LALIGA TV HYPERMOTION",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/sjnpvfucqg/out/v1/3934680f71e04ed28dbf64fc52c3a6e7/cenc.mpd",
+        "kid": "6d08b265a6639e32da7c880d5491e3d2",
+        "key": "0c92556ca14b95f367993710e7cfbc94",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "LALIGA TV HYPERMOTION - OPC2",
+        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+        "kid": "6d08b265a6639e32da7c880d5491e3d2",
+        "key": "0c92556ca14b95f367993710e7cfbc94",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "LALIGA TV HYPERMOTION 2",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd",
+        "kid": "0b1fdeaee3ffc51e9a66cf1938d57aaf",
+        "key": "28e3cb88ab7b476b81ab8aa0624c4d71",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "LALIGA TV HYPERMOTION 3",
+        "uri": "https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd",
+        "key": "e8ea3a1ae6892eb76a73dc1b14d216d6",
+        "kid": "d8235cccf08d0ff149a20dfcd11ff68b",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN COMBAT",
+        "uri": "http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd",
+        "kid": "cfb5e2b73bef4f3c878f25ab86a7451f",
+        "key": "0d6712bf2a84edcc93d001a9613f6fec",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN FAST+",
+        "uri": "http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd",
+        "kid": "cfb5e2b73bef4f3c878f25ab86a7451f",
+        "key": "0d6712bf2a84edcc93d001a9613f6fec",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN RISE",
+        "uri": "http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd",
+        "kid": "cfb5e2b73bef4f3c878f25ab86a7451f",
+        "key": "0d6712bf2a84edcc93d001a9613f6fec",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN WOMENS FOOTBALL",
+        "uri": "http://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd",
+        "kid": "cfb5e2b73bef4f3c878f25ab86a7451f",
+        "key": "0d6712bf2a84edcc93d001a9613f6fec",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN 1 (UK)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-045/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "DAZN 2 (DEUTSCH)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ZONA DAZN (IT)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-024/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      }
+    ]
+  },
+  {
+    "name": "MOVISTAR PLUS",
+    "samples": [
+      {
+        "name": "M+ ACCION",
+        "uri": "https://gtechtecnologia.com/telelatino/play/295.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      }
+    ]
+  },
+  {
+    "name": "CLARO SPORTS (VPN)",
+    "samples": [
+      {
+        "name": "CLARO SPORTS LATAM",
+        "uri": "https://pubads.g.doubleclick.net/ssai/event/qrZ47XNwQ6--4BaOTYV12g/master.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CLARO SPORTS 2 LATAM",
+        "uri": "https://pubads.g.doubleclick.net/ssai/event/NJWUAFmXSz691nhm2fwjhw/master.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CLARO SPORTS 3 LATAM",
+        "uri": "https://pubads.g.doubleclick.net/ssai/event/waSJNqdnQ-O7oN5y2A4NGA/master.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CLARO SPORTS 4 LATAM",
+        "uri": "https://pubads.g.doubleclick.net/ssai/event/iEXSIQsvRn6HP2Ckpuah1A/master.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      }
+    ]
+  },
+  {
+    "name": "⚽ CHAMPIONS LEAGUE",
+    "samples": [
+      {
+        "name": "DAZN 1 (DE)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ELEVEN 1 (PT)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ELEVEN 2 (PT)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ELEVEN 3 (PT)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ELEVEN 4 (PT)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ELEVEN 5 (PT)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "ELEVEN 6 (PT)",
+        "uri": "https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd",
+        "kid": "8ab47741930c476780515f9a00decb0a",
+        "key": "7ab4b9ae5a48aa526e511a913b832769",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      }
+    ]
+  },
+  {
+    "name": "👩‍👧‍👦 INFANTILES",
+    "samples": [
+      {
+        "name": "BOING",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "CLAN TVE",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:6_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DISNEY CHANNEL",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DISNEY JR.",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:264_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "BABY TV",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:262_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "BABY SHARK",
+        "uri": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DUCK TV",
+        "uri": "http://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket02/smil:196_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "PEQUERADIO TV",
+        "uri": "http://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket10/smil:60_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "POCOYÓ",
+        "uri": "https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "NICKELODEON",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:260_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "NICK JR.",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:261_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      }
+    ]
+  },
+  {
+    "name": "🎶 MUSICA",
+    "samples": [
+      {
+        "name": "MUSICA",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket15/smil:97_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "HIT TV",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "WM CHILL",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket06/smil:276_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "WM CLASSICAL",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket11/smil:194_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "WM DANCE",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket06/smil:279_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "WM FLAMENCO",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket06/smil:275_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "WM HITS",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket06/smil:274_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "WM LATIN",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket06/smil:277_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "WM REMEMBER",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket06/smil:278_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "MTV 00",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:259_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "MTV ESPAÑA",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:256_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "MTV HITS",
+        "uri": "https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd",
+        "key": "7f8f21c0b12be72690510d92b893b5ac",
+        "kid": "f2975a79fd099430a195212b04b4dd1e",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "SOL MUSICA",
+        "uri": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      }
+    ]
+  },
+  {
+    "name": "📚 CULTURALES",
+    "samples": [
+      {
+        "name": "NATURE TIME",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "LOVE THE PLANET",
+        "uri": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "IBERALIA ORIGINAL",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:38_HD.smil/manifest.mpd",
+        "kid": "2b1b02f9e2f944cebc5d1ae803d2b9fb",
+        "key": "d2707074e47a2ec56714292e539837a5",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "IBERALIA 100% PESCA",
+        "uri": "https://ott.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd",
+        "kid": "7ae3343806fda8a7bc27d38ab605a702",
+        "key": "9a6a18d6877a1cfb037417be8ec3d7e6",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "IBERALIA 100% PESCA - OPC2",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "IBERALIA 100% CAZA",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "GARAGE TV",
+        "uri": "https://stream1.sersat.com/hls/garagetv.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      }
+    ]
+  },
+  {
+    "name": "🙍‍♀️ NOVELAS Y VARIEDADES",
+    "samples": [
+      {
+        "name": "DIVINITY",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:18_HD.smil/manifest.mpd",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "GLOBAL TELENOVELAS",
+        "uri": "http://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:93_HD.smil/manifest.mpd",
+        "kid": "0069f322811540a2aab02dec9c1a5f12",
+        "key": "85408178c6da6d0be0e6e6f8549092c7",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+      },
+      {
+        "name": "TODO NOVELAS",
+        "uri": "https://amg01412-xiaomiasia-frecuencianovelas-xiaomi-hnlgr.amagi.tv/playlist/amg01412-xiaomiasia-frecuencianovelas-xiaomi/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "STORMCAST NOVELAS",
+        "uri": "https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TL NOVELAS IT",
+        "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "SONY NOVELAS",
+        "uri": "https://spt-novelas-1-us.samsung.wurl.tv:443/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "KANAL D DRAMA",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      }
+    ]
+  },
+  {
+    "name": "🌏 INTERNACIONALES",
+    "samples": [
+      {
+        "name": "AL JAZEERA ENGLISH",
+        "uri": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "BLOOMBERG EUROPE",
+        "uri": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "EURONEWS",
+        "uri": "https://rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "TV5MONDE EUROPE",
+        "uri": "https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "SKY NEWS",
+        "uri": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket15/smil:292_HD.smil/manifest.mpd",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      }
+    ]
+  },
+  {
+    "name": "🇪🇸 PLUTO TV",
+    "samples": [
+      {
+        "name": "ESPAÑA",
+        "uri": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "DISEÑO",
+        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64db2e0835425100080f2f5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      },
+      {
+        "name": "Atrápame si puedes",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64c7b1582a7f220008a07a61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV True Crime",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64a3f200f238ce0008d47247/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Star Trek",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/619b7db4872c650008eb8b6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Doctor Who",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Sensación de Vivir (90210)",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6245c2a5eec07b0007249fc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Melrose Place",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6245c03922d9d4000760d205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Los Ángeles de Charlie",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63eb93cea995710008989e3a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "La niñera",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60f58f2278490000079bc47b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Telenovelas",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV K-Drama",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "BBC Drama",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Andrómeda",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Mutante X",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Series Comedia",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "La Chica Invisible",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Series",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Las reglas del juego",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Estelar",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Acción",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Horror",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6267d4d1fb694f0007a6af0e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Sci-Fi",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Comedia",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Western",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6385e82900ab2e000768a058/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Romántico",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Thrillers",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Drama",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Cine de autor",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Clásico",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Cortos",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61c49a1b5ec8d40008673251/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Runtime",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Catástrofes",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/645a309c5a0cd5000873f609/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Archivos Forenses",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Los nuevos detectives",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Los archivos del FBI",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Paranormal",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/612ce5214bb5790007ad3016/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV True Crime",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64a3f200f238ce0008d47247/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Cazador de Homicidas",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Constance Meyer: Jueza en prácticas",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6193963c5a960200074ce816/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "El Detective Endeavour",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/619b9f16b8fee4000832d447/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Asesinatos de Midsomer",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Poirot & Miss Marple",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6304f530440dc90007f514d3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "El Comisario",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60c343007bcabe0007242aa6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Comedia made in Spain",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Ana y los 7",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "A las once en casa",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/622f447a32669a00071a8986/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Curro Jiménez",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Atrápame si puedes",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64c7b1582a7f220008a07a61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Vaya semanita",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f28009b150b2500077766b8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Ciudadanos por el mundo",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/622f42b831233300078658cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "En el punto de mira",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61922be835f3910007fc58f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Empeños a lo bestia",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60218baa464ef900073168c1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Ice Pilots",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61b9edc4a4ca6100070bb407/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Mi Extraña Obsesión",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60e4573c9f963e00077ecf25/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Reality",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61b87bc867b03a0007864e0d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "El Conquistador del Fin",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "El encantador de perros",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Cocina",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Historia",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61cd7b49543066000713b620/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Viajes",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60c343ad476ec00007c2ec1a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Fashion TV",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60c882460ea4a200076a2a37/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Fitness",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6140a074a99e79000738162a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Documentales",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61cd78920b90cb0007e28231/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Animales",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/600ae6a78d801e0007117d21/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Top Gear",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60d356a534f63f000850cdd7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Motor",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Tuning",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "FUEL TV",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60f1673d0e4370000784dc61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "IGN",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "La Media Inglesa",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6335a79d10efe80007297a94/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Deportes",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MyPadel TV",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/648c2a27976ee900085a8524/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Unbeaten Sports",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64c3af96e4391c0008e16d17/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "World Poker Tour",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Vergüenza ajena",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Catfish TV Show",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Jerseys",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/62ac3d7dc23b400008ae5b5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Geordies",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/627d3176d7dfa500077042f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Realities",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6130d8dc943001000708548d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Originals",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Teen Mom",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/604f81a49ef73300070e554f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Embarazada a los 16",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Tattoo a dos",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/611b87946b7f420007c22361/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "VH1 Classics",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Music Made in Spain",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Party Music",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "MTV Urban Music",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/62444f34ea3ade0007ade6ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV K-Pop",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Qello Concerts",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60f16986acb81b0007c384ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Qwest TV",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60db37b8b919720007c07fa4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Clubbing TV",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Euronews",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "CBS News",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6231ede1be5b460007f91bc1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Chilevision Noticias",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/627d1b936d4ded0007d7642f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Telefe Noticias",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/627d1b12c8540700073b3f39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "FailArmy",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Wipeout",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/604f8125c6669b00077f7699/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "The Pet Collective",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1abf097eb06300079b30f7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "People are Awesome",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac1780e94100007f94b3f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Just for Laughs",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "South Park",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/628751bb7154a40007168843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "South Park Versión Original",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63d7a8e5a9957100086bfc23/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Detective Conan",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Yu-Gi-Oh!",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63eb96754e83e70008ab8941/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Inazuma Eleven",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/632c6df43d2bc5000751f621/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Anime",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Las Tortugas Ninja",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Avatar",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/61373c865ed5810007173fbc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Bob Esponja",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Los padrinos mágicos",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6304f626d1a0ac00083a05c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Rugrats",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/610c09219fc0430007a3fce6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Érase una vez...",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63c69c87808b740007599fe1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Las Tres Mellizas",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/645a30f6f3f5b1000864ac04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Toons Clásico",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Animakids",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Junior",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Dora la Exploradora",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/624466b26ab25e0007dd7cfb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Teen",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/63eb944dc111bc0008fe7021/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Big Time Rush",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "Pluto TV Teen Stars",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      },
+      {
+        "name": "iCarly",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6181404ef48321000797bc41/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "kid": "",
+        "key": "",
+        "drm_scheme": "clearkey",
+        "extension": "m3u8"
+      }
+    ]
+  },
+  {
+    "name": "APK GRATIS, MOD TELEGRAM PLPRO3",
+    "samples": [
+      {
+        "name": "https://t.me/plpro3",
+        "uri": "https://t.me/plpro3",
+        "key": "",
+        "kid": "",
+        "drm_scheme": "clearkey",
+        "extension": ""
+      }
+    ]
+  }
+]
