@@ -58,18 +58,5 @@
     "logo": "http://example.com/channel2_logo.png"
   }
     ]
-  },
-  {
-    "name": "APK GRATIS, MOD TELEGRAM PLPRO3",
-    "samples": [
-      {
-        "name": "https://t.me/plpro3",
-        "uri": "https://t.me/plpro3",
-        "key": "",
-        "kid": "",
-        "drm_scheme": "clearkey",
-        "extension": ""
-      }
-    ]
   }
 ]
