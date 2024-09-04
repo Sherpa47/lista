@@ -15,7 +15,12 @@
     "logo": "http://example.com/channel2_logo.png"
   },
   {
-    "name": "Channel Name 3",
+    "name": "Channel Name 4",
+    "url": "http://109.233.89.166/Eurosport_1_HD/mono.m3u8",
+    "logo": "http://example.com/channel2_logo.png"
+  },
+  {
+    "name": "Channel Name 5",
     "url": "http://www.oha.to/play/3461295847/index.m3u8",
     "logo": "http://example.com/channel2_logo.png"
   }
