@@ -2,26 +2,26 @@
   {
     "name": "Channel Name 1",
     "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
-    "logo": "https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg"
+    "logoUrl": "https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg"
   },
   {
     "name": "Channel Name 2",
     "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8",
-    "logo": "http://example.com/channel2_logo.png"
+    "logoUrl": "http://example.com/channel2_logo.png"
   },
   {
     "name": "Channel Name 3",
     "url": "https://flucast-m04-06.flumotion.com/cope/net1.mp3",
-    "logo": "http://example.com/channel2_logo.png"
+    "logoUrl": "http://example.com/channel2_logo.png"
   },
   {
     "name": "Channel Name 4",
     "url": "https://streaming.rac105.cat/",
-    "logo": "http://example.com/channel2_logo.png"
+    "logoUrl": "http://example.com/channel2_logo.png"
   },
   {
     "name": "Channel Name 5",
     "url": "http://247847841746228384.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/228384.m3u8",
-    "logo": "http://example.com/channel2_logo.png"
+    "logoUrl": "http://example.com/channel2_logo.png"
   }
 ]
