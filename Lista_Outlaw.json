@@ -1,27 +1,17 @@
-[
+{
+  "categories": [
     {
-        "group": "Deportes",
-        "channels": [
-            {
-                "name": "ES: LIGA DE CAMPEONES 2 SD",
-                "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
-                "logoUrl": "https://th.bing.com/th/id/OIP.oGboIhWoPI_i5PSD6gtGIgAAAA?rs=1&pid=ImgDetMain"
-            },
-            {
-                "name": "ES: LIGA DE CAMPEONES 1 HD",
-                "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
-                "logoUrl": "https://th.bing.com/th/id/OIP.oGboIhWoPI_i5PSD6gtGIgAAAA?rs=1&pid=ImgDetMain"
-            }
-        ]
+      "name": "Sports",
+      "channels": [
+        {"name": "ES: LIGA DE CAMPEONES 2 SD", "id": 1, "url": "http://example.com/stream1.m3u8", "logo": "https://example.com/logo1.jpg"},
+        {"name": "ES: LIGA DE CAMPEONES 1 SD", "id": 2, "url": "http://example.com/stream2.m3u8", "logo": "https://example.com/logo2.jpg"}
+      ]
     },
     {
-        "group": "Noticias",
-        "channels": [
-            {
-                "name": "ES: CNN",
-                "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
-                "logoUrl": "https://th.bing.com/th/id/OIP.oGboIhWoPI_i5PSD6gtGIgAAAA?rs=1&pid=ImgDetMain"
-            }
-        ]
+      "name": "News",
+      "channels": [
+        {"name": "ES: NEWS CHANNEL 1", "id": 3, "url": "http://example.com/stream3.m3u8", "logo": "https://example.com/logo3.jpg"}
+      ]
     }
-]
+  ]
+}
