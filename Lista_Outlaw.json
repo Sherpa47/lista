@@ -1,7 +1,7 @@
 [
     {
         "group": "Deportes",
-        "image": "https://example.com/sports_image.jpg",
+        "image": "https://www.volair.es/wp-content/uploads/2020/12/la-aventura-del-saber-tve2.jpg",
         "channels": [
             {
                 "name": "ES: LIGA DE CAMPEONES 2 SD",
@@ -17,7 +17,7 @@
     },
     {
         "group": "Noticias",
-        "image": "https://example.com/news_image.jpg",
+        "image": "https://www.volair.es/wp-content/uploads/2020/12/la-aventura-del-saber-tve2.jpg",
         "channels": [
             {
                 "name": "ES: CNN",
