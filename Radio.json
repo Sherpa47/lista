@@ -1,32 +1,140 @@
 [
   {
     "id": 1,
-    "name": "Channel Name 1",
+    "name": "Ser",
     "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
     "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/ser.png"
   },
   {
     "id": 2,
-    "name": "Channel Name 2",
+    "name": "Cope",
     "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/cope.png"
   },
   {
     "id": 3,
-    "name": "Channel Name 3",
+    "name": "Rne",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3",
     "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne.png"
   },
   {
     "id": 4,
-    "name": "Channel Name 4",
+    "name": "Rne3",
     "url": "https://streaming.rac105.cat/",
     "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne3.png"
   },
   {
     "id": 5,
-    "name": "Channel Name 5",
+    "name": "Rne5",
     "url": "http://247847841746228384.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/228384.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne5.png"
+  },
+  {
+    "id": 6,
+    "name": "Rne Clasica",
+    "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/ser.png"
+  },
+  {
+    "id": 7,
+    "name": "Onda Cero",
+    "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/cope.png"
+  },
+  {
+    "id": 8,
+    "name": "Europa FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne.png"
+  },
+  {
+    "id": 9,
+    "name": "Los40",
+    "url": "https://streaming.rac105.cat/",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne3.png"
+  },
+  {
+    "id": 10,
+    "name": "m80",
+    "url": "http://247847841746228384.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/228384.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne5.png"
+  },
+  {
+    "id": 11,
+    "name": "Cadena 100",
+    "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/ser.png"
+  },
+  {
+    "id": 12,
+    "name": "Radiole",
+    "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/cope.png"
+  },
+  {
+    "id": 13,
+    "name": "Flaixbac",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne.png"
+  },
+  {
+    "id": 14,
+    "name": "Dance",
+    "url": "https://streaming.rac105.cat/",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne3.png"
+  },
+  {
+    "id": 15,
+    "name": "Ibiza Global",
+    "url": "http://247847841746228384.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/228384.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne5.png"
+  },
+  {
+    "id": 16,
+    "name": "Hit FM",
+    "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/ser.png"
+  },
+  {
+    "id": 17,
+    "name": "Radio Marca",
+    "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/cope.png"
+  },
+  {
+    "id": 18,
+    "name": "Olimpica FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne.png"
+  },
+  {
+    "id": 19,
+    "name": "Rock",
+    "url": "https://streaming.rac105.cat/",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne3.png"
+  },
+  {
+    "id": 20,
+    "name": "Rock FM",
+    "url": "http://247847841746228384.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/228384.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne5.png"
+  },
+  {
+    "id": 21,
+    "name": "Cadena Dial",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne.png"
+  },
+  {
+    "id": 22,
+    "name": "Kiss FM",
+    "url": "https://streaming.rac105.cat/",
+    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne3.png"
+  },
+  {
+    "id": 23,
+    "name": "Esradio",
+    "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
     "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Emisoras%20radio/rne5.png"
   }
 ]
