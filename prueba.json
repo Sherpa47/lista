@@ -1,0 +1,18 @@
+[
+    {
+        "name": "MEGA",
+        "uri": "https://ott.zapitv.com/live/eds_c2/mega/dash_live_enc/mega.mpd",
+        "kid": "enDqtYWuQ1Avx0yA/zbiIA",
+        "key": "/fOIp3+ORcwo6Lp4h7jymg",
+        "drm_scheme": "clearkey",
+        "extension": ""
+    },
+    {
+        "name": "ATRESMEDIA",
+        "uri": "https://ott.zapitv.com/live/eds_c2/atresmedia/dash_live_enc/atresmedia.mpd",
+        "kid": "2f9f8aec731ad9b6da84e72df2b318fa",
+        "key": "8581c19cf83e9b0a872484377ea8c162",
+        "drm_scheme": "clearkey",
+        "extension": ""
+    }
+]
