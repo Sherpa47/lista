@@ -1,6 +1,14 @@
 [
     {
         "name": "MEGA",
+        "uri": "https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd",
+        "kid": "",
+        "key": "237be8ca9383755e9f5784dd23f545eb",
+        "drm_scheme": "15a723773c3b3cbce295c0aed0bc71c3",
+        "extension": ""
+    },
+    {
+        "name": "MEGA",
         "uri": "https://ott.zapitv.com/live/eds_c2/mega/dash_live_enc/mega.mpd",
         "kid": "enDqtYWuQ1Avx0yA/zbiIA",
         "key": "/fOIp3+ORcwo6Lp4h7jymg",
