@@ -14,5 +14,13 @@
     "key": "bE92y3BhGfN2lYJsYSyT1A",
     "drm_scheme": "clearkey",
     "extension": ""
+  },
+  {
+    "name": "LA 1 - OPC2",
+    "uri": "https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
+     "key": "7740f8ae4223ce5ba293028f7f78f1c1",
+    "kid": "a3abc44525eef3b0a7af9138a9dbe34a",
+    "drm_scheme": "clearkey",
+     "extension": "mpd"
   }
 ]
