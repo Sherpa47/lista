@@ -1,6 +1,7 @@
 [
   {
-     "name": "LA 1 - OPC1",
+     "name": "LA 1 - Opc1",
+    "logo": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
     "uri": "https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
     "key": "d0D4rkIjzluikwKPf3jxwQ",
      "kid": "o6vERSXu87Cnr5E4qdvjSg",
@@ -8,7 +9,8 @@
     "extension": ""
   },
   {
-    "name": "LA 1 - OPC2",
+    "name": "LA 1 - Opc2",
+    "logo": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
     "uri": "https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
      "key": "7740f8ae4223ce5ba293028f7f78f1c1",
     "kid": "a3abc44525eef3b0a7af9138a9dbe34a",
