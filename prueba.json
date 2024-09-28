@@ -1,17 +1,9 @@
 [
   {
-    "name": "LA 2",
-    "uri": "https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd",
-    "kid": "7NfudeDojyZ6zmvX2dcNgw",
-    "key": "6xltKy3ChBj0ZVMsXRGCwA",
-    "drm_scheme": "clearkey",
-    "extension": ""
-  },
-  {
-    "name": "CANAL 24 HORAS",
-    "uri": "https://ott.zapitv.com/live/eds_c2/canal_24h/dash_live_enc/canal_24h.mpd",
-    "kid": "Af28P24nBsN8nZ8m3f3T2w",
-    "key": "bE92y3BhGfN2lYJsYSyT1A",
+     "name": "LA 1 - OPC2",
+    "uri": "https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
+    "key": "d0D4rkIjzluikwKPf3jxwQ",
+     "kid": "o6vERSXu87Cnr5E4qdvjSg",
     "drm_scheme": "clearkey",
     "extension": ""
   },
