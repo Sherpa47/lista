@@ -1,6 +1,6 @@
 [
     {
-        "group": "Deportes",
+        "group": "televisión",
         "image": "https://www.volair.es/wp-content/uploads/2020/12/la-aventura-del-saber-tve2.jpg",
         "channels": [
             {
@@ -52,18 +52,20 @@
 		
     },
     {
-        "group": "Noticias",
+        "group": "Radio",
         "image": "https://www.volair.es/wp-content/uploads/2020/12/la-aventura-del-saber-tve2.jpg",
         "channels": [
             {
                 "name": "ES: CNN",
                 "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
-                "logoUrl": "https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg"
+                "logoUrl": "https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg",
+	        "type": "radio"
             },
             {
-                "name": "ES: LIGA DE CAMPEONES 1 HD",
-                "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
-                "logoUrl": "https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg"
+                "name": "Radio",
+                "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
+                "logoUrl": "https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg",
+	        "type": "radio"
             }
         ]
     }
