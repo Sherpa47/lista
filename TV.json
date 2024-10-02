@@ -58,13 +58,13 @@
             {
                 "name": "ES: CNN",
                 "url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5",
-                "logoUrl": "https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal2.png",
 	        "type": "web"
             },
             {
                 "name": "M+ Liga de Campeones",
                 "url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c",
-                "logoUrl": "https://pbs.twimg.com/profile_images/1546404445071835138/EwWaq8qA_400x400.jpg",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal2.png",
 	        "type": "web"
             }
         ]
