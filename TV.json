@@ -1,7 +1,7 @@
 [
     {
         "group": "televisión",
-        "image": "https://media.istockphoto.com/vectors/television-icon-with-long-shadow-on-blue-background-flat-design-style-vector-id1039769498?k=20&m=1039769498&s=612x612&w=0&h=u004SODVOPwx_h-YeZ5Iaol9935hrvrSiJvKmFCeZSs=",
+        "image": "https://static.vecteezy.com/system/resources/previews/017/609/184/non_2x/cartoon-color-retro-tv-vector.jpg",
         "channels": [
             {
                 "name": "ES: TVE1",
@@ -20,8 +20,9 @@
             },
             {
                 "name": "ES: LIGA DE CAMPEONES 1 HD",
-                "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
-                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+                "url": "",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+                "type": "webview"
             },
             {
                 "name": "ES: EUROSPORT 1 HTTP",
@@ -683,7 +684,7 @@
     },
     {
         "group": "Películas",
-        "image": "https://th.bing.com/th/id/OIP.S3YSj2KTXqVgNHJj10ZFfQHaEG?rs=1&pid=ImgDetMain",
+        "image": "https://assets.biztimes.com/2020/08/movie-popcorn-shutterstock_128570120-Converted.jpg",
         "channels": [
             {
             "name": "Estrenos",
