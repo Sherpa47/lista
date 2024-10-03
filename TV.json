@@ -683,10 +683,10 @@
     },
     {
         "group": "Películas",
-        "image": "https://coimobile.com/uploads/2024/1/ace-stream-thumbnail.jpg",
+        "image": "https://th.bing.com/th/id/OIP.S3YSj2KTXqVgNHJj10ZFfQHaEG?rs=1&pid=ImgDetMain",
         "channels": [
             {
-            "name": "M+ LaLiga",
+            "name": "Estrenos",
             "url": "https://army-team.foroactivo.com/h4-peliculas",
                 "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal2.png",
 	        "type": "webview"
