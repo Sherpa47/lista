@@ -1,7 +1,7 @@
 [
     {
         "group": "televisión",
-        "image": "https://static.vecteezy.com/system/resources/previews/017/609/184/non_2x/cartoon-color-retro-tv-vector.jpg",
+        "image": "https://media.istockphoto.com/vectors/television-icon-with-long-shadow-on-blue-background-flat-design-style-vector-id1039769498?k=20&m=1039769498&s=612x612&w=0&h=u004SODVOPwx_h-YeZ5Iaol9935hrvrSiJvKmFCeZSs=",
         "channels": [
             {
                 "name": "ES: TVE1",
@@ -44,7 +44,7 @@
            {
                "name": "WEBVIEW",
                "id": 2713202476,
-               "url": "https://army-team.foroactivo.com/h19-tv1-opc2",
+               "url": "https://jepsikuydo5.foroactivo.com/h1-agenda",
                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
 	       "type": "webview"
           }
@@ -55,7 +55,7 @@
         "group": "Acestrem",
         "image": "https://coimobile.com/uploads/2024/1/ace-stream-thumbnail.jpg",
         "channels": [
-            {
+                         {
         "name": "La 1 HD:",
         "url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal2.png",
@@ -679,6 +679,18 @@
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal2.png",
         "type": "web"
     }
+        ]
+    },
+    {
+        "group": "Películas",
+        "image": "https://coimobile.com/uploads/2024/1/ace-stream-thumbnail.jpg",
+        "channels": [
+            {
+            "name": "M+ LaLiga",
+            "url": "https://army-team.foroactivo.com/h4-peliculas",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal2.png",
+	        "type": "webview"
+            }
         ]
     }
 ]
