@@ -40,7 +40,7 @@
                "id": 905063904,
                "url": "https://army-team.foroactivo.com/h59-mega-opc2",
                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
-               "type": "web"
+               "type": "webview"
            },
            {
                "name": "WEBVIEW-M3U8",
