@@ -36,14 +36,14 @@
                 "type": "exoplayer"
             },
             {
-               "name": "ES: ACESTREAM  CAMP",
+               "name": "WEBVIEW-MPD",
                "id": 905063904,
-               "url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c",
+               "url": "https://army-team.foroactivo.com/h59-mega-opc2",
                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
                "type": "web"
            },
            {
-               "name": "WEBVIEW",
+               "name": "WEBVIEW-M3U8",
                "id": 2713202476,
                "url": "https://army-team.foroactivo.com/h18-tv1-opc1",
                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
