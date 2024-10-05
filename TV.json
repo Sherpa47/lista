@@ -16,8 +16,9 @@
             },
             {
                 "name": "ES: LIGA DE CAMPEONES 1 HD",
-                "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
-                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+                "url": "https://army-team.foroactivo.com/h9-canales_deportes",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+                "type": "webview"
             },
             {
                 "name": "ES: LIGA DE CAMPEONES 1 HD",
@@ -37,9 +38,9 @@
                 "type": "exoplayer"
             },
             {
-               "name": "WEBVIEW-MPD",
+               "name": "WEBVIEW-VACIA",
                "id": 905063904,
-               "url": "https://army-team.foroactivo.com/h59-mega-opc2",
+               "url": "",
                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
                "type": "webview"
            },
