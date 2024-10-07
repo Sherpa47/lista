@@ -1,0 +1,64 @@
+[
+    {
+        "group": "televisión",
+        "image": "https://media.istockphoto.com/vectors/television-icon-with-long-shadow-on-blue-background-flat-design-style-vector-id1039769498?k=20&m=1039769498&s=612x612&w=0&h=u004SODVOPwx_h-YeZ5Iaol9935hrvrSiJvKmFCeZSs=",
+        "channels": [
+            {
+                "name": "ES: TVE1",
+                "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+            },
+            {
+                "name": "ES: LIGA DE CAMPEONES 1 HD",
+                "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+            },
+            {
+                "name": "ES: LIGA DE CAMPEONES 1 HD",
+                "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+            },
+            {
+                "name": "ES: LIGA DE CAMPEONES 1 HD",
+                "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+            },
+            {
+                "name": "ES: EUROSPORT 1 HTTP",
+                "url": "http://109.233.89.166/Eurosport_1_HD/mono.m3u8",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+	    },
+            {
+                "name": "ES: EURSPORT 2 HTTP",
+                "url": "http://109.233.89.166/Eurosport_2_HD/mono.m3u8",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+                "type": "exoplayer"
+            },
+            {
+               "name": "ES: ACESTREAM  CAMP",
+               "id": 905063904,
+               "url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c",
+               "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+               "type": "web"
+           },
+           {
+               "name": "WEBVIEW",
+               "id": 2713202476,
+               "url": "https://jepsikuydo5.foroactivo.com/h1-agenda",
+               "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+	       "type": "webview"
+          }
+      ]
+		
+    },
+    
+        
+            {
+                "name": "M+ LaLiga",
+                "url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal2.png",
+	        "type": "web"
+            }
+        
+    
+]
