@@ -2,7 +2,8 @@
     {
         "name": "ES: LA 1 FHD",
         "url": "http://18878444135321276.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321276.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION.png",
+	    "type": "webview"
     },
     {
         "name": "ES: LA 1 HD",
