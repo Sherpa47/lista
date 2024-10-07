@@ -62,7 +62,7 @@
         },
         {
             "group": "Películas",
-            "image": "https://assets.biztimes.com/2020/08/movie-popcorn-shutterstock_128570120-Converted.jpg",
+            "image": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/PELICULAS.png",
             "channels": [
                 {
                     "name": "Estrenos",
