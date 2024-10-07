@@ -2,11 +2,36 @@
     {
         "name": "ES: LA 1 FHD",
         "url": "http://18878444135321276.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321276.ts",
-        "logoUrl": "https://example.com/logoUrl.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION.png"
     },
     {
         "name": "ES: LA 1 HD",
         "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://example.com/logoUrl.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/RADIO.png"
+    },
+    {
+        "name": "ES: LA 1 HD",
+        "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/PELICULAS.png"
+    },
+    {
+        "name": "ES: LA 1 HD",
+        "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/SERIES1.png"
+    },
+    {
+        "name": "ES: LA 1 HD",
+        "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/MUSICA.png"
+    },
+    {
+        "name": "ES: LA 1 HD",
+        "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/JUEGOS.png"
+    },
+    {
+        "name": "ES: LA 1 HD",
+        "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/INFORMACION.png"
     }
 ]
