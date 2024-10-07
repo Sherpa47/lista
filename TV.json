@@ -695,5 +695,17 @@
 	        "type": "webview"
             }
         ]
+    },
+    {
+        "group": "Películas",
+        "image": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION1.png",
+        "channels": [
+            {
+            "name": "Estrenos",
+            "url": "https://army-team.foroactivo.com/h4-peliculas",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal2.png",
+	        "type": "webview"
+            }
+        ]
     }
 ]
