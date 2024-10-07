@@ -1,44 +1,76 @@
-[
-    {
-        "name": "ES: LA 1 FHD",
-        "url": "http://18878444135321276.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321276.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION.png",
-	"type": "webview"
-    },
-    {
-        "name": "ES: LA 1 HD",
-        "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/RADIO.png",
-	"type": "webview"
-    },
-    {
-        "name": "ES: LA 1 HD",
-        "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/PELICULAS.png",
-	"type": "webview"
-    },
-    {
-        "name": "ES: LA 1 HD",
-        "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/SERIES.png",
-	"type": "webview"
-    },
-    {
-        "name": "ES: LA 1 HD",
-        "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/MUSICA.png",
-	"type": "webview"
-    },
-    {
-        "name": "ES: LA 1 HD",
-        "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/JUEGOS.png",
-	"type": "webview"
-    },
-    {
-        "name": "ES: LA 1 HD",
-        "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/INFORMACION.png",
-	"type": "exoplayer"
-    }
-]
+{
+    "groups": [
+        {
+            "group": "televisión",
+            "image": "https://static.vecteezy.com/system/resources/previews/017/609/184/non_2x/cartoon-color-retro-tv-vector.jpg",
+            "channels": [
+                {
+                    "name": "ES: TVE1",
+                    "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8",
+                    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+                },
+                {
+                    "name": "ES: DAZN 1",
+                    "url": "https://army-team.foroactivo.com/h73-dazn1?id=DAZN_1_ES",
+                    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+                    "type": "webview"
+                },
+                {
+                    "name": "ES: LIGA DE CAMPEONES 1 HD",
+                    "url": "https://army-team.foroactivo.com/h2-television",
+                    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+                    "type": "webview"
+                },
+                {
+                    "name": "ES: EUROSPORT 1 HTTP",
+                    "url": "http://109.233.89.166/Eurosport_1_HD/mono.m3u8",
+                    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+                },
+                {
+                    "name": "ES: EURSPORT 2 HTTP",
+                    "url": "http://109.233.89.166/Eurosport_2_HD/mono.m3u8",
+                    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+                    "type": "exoplayer"
+                }
+            ]
+        },
+        {
+            "group": "Acestream",
+            "image": "https://coimobile.com/uploads/2024/1/ace-stream-thumbnail.jpg",
+            "channels": [
+                {
+                    "name": "La 1 HD",
+                    "url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47",
+                    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal2.png",
+                    "type": "web"
+                },
+                {
+                    "name": "La1 UHD",
+                    "url": "acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af",
+                    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal2.png",
+                    "type": "web"
+                }
+            ]
+        },
+        {
+            "group": "Películas",
+            "image": "https://assets.biztimes.com/2020/08/movie-popcorn-shutterstock_128570120-Converted.jpg",
+            "channels": [
+                {
+                    "name": "Estrenos",
+                    "url": "https://army-team.foroactivo.com/h4-peliculas",
+                    "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal2.png",
+                    "type": "webview"
+                }
+            ]
+        }
+    ],
+    "singleChannels": [
+        {
+            "name": "ES: Suelto Canal",
+            "url": "https://example.com/stream/single.m3u8",
+            "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+            "type": "exoplayer"
+        }
+    ]
+}
