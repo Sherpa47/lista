@@ -3,36 +3,42 @@
         "name": "ES: LA 1 FHD",
         "url": "http://18878444135321276.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321276.ts",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION.png",
-	    "type": "webview"
+	"type": "webview"
     },
     {
         "name": "ES: LA 1 HD",
         "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/RADIO.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/RADIO.png",
+	"type": "webview"
     },
     {
         "name": "ES: LA 1 HD",
         "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/PELICULAS.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/PELICULAS.png",
+	"type": "webview"
     },
     {
         "name": "ES: LA 1 HD",
         "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/SERIES.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/SERIES.png",
+	"type": "webview"
     },
     {
         "name": "ES: LA 1 HD",
         "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/MUSICA.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/MUSICA.png",
+	"type": "webview"
     },
     {
         "name": "ES: LA 1 HD",
         "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/JUEGOS.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/JUEGOS.png",
+	"type": "webview"
     },
     {
         "name": "ES: LA 1 HD",
         "url": "http://18878444135321277.ofd92622.xyz:80/live/fe928827/ufAfU8s9bH/321277.ts",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/INFORMACION.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/INFORMACION.png",
+	"type": "exoplayer"
     }
 ]
