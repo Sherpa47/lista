@@ -1,9 +1,9 @@
 {
     "singleChannels": [
         {
-            "name": "ES: Suelto Canal",
-            "url": "https://army-team.foroactivo.com/h4-peliculas",
-            "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+            "name": "Televisión",
+            "url": "https://army-team.foroactivo.com/h2-television",
+            "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION.png",
             "type": "exoplayer"
         }
     ],
