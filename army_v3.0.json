@@ -68,7 +68,7 @@
     "singleChannels": [
         {
             "name": "ES: Suelto Canal",
-            "url": "https://example.com/stream/single.m3u8",
+            "url": "https://army-team.foroactivo.com/h4-peliculas",
             "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
             "type": "exoplayer"
         }
