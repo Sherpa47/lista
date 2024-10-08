@@ -1,16 +1,51 @@
 [
     {
         "id": 1,
-        "name": "ES: DAZN 1",
-        "url": "https://army-team.foroactivo.com/h73-dazn1?id=DAZN_1_ES",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+        "name": "Televisión",
+        "url": "https://army-team.foroactivo.com/h2-television",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION.png",
         "type": "webview"
     },
     {
         "id": 2,
-        "name": "ES: LIGA DE CAMPEONES 1 HD",
-        "url": "https://army-team.foroactivo.com/h2-television",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+        "name": "Radio",
+        "url": "https://army-team.foroactivo.com/h3-radio",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/RADIO.png",
+        "type": "webview"
+    },
+    {
+        "id": 3,
+        "name": "Películas",
+        "url": "https://army-team.foroactivo.com/h4-peliculas",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/PELICULAS.png",
+        "type": "webview"
+    },
+    {
+        "id": 4,
+        "name": "Series",
+        "url": "https://army-team.foroactivo.com/h5-series",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/SERIES.png",
+        "type": "webview"
+    },
+    {
+        "id": 5,
+        "name": "Musica",
+        "url": "https://army-team.foroactivo.com/h6-musica",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/MUSICA.png",
+        "type": "webview"
+    },
+    {
+        "id": 6,
+        "name": "Juegos",
+        "url": "https://army-team.foroactivo.com/h7-juegos"",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/JUEGOS.png"",
+        "type": "webview"
+    },
+    {
+        "id": 7,
+        "name": "Información",
+        "url": "https://telegra.ph/Instrucciones-07-17",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/INFORMACION.png",
         "type": "webview"
     }
 ]
