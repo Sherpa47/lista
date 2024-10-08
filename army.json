@@ -37,8 +37,8 @@
     {
         "id": 6,
         "name": "Juegos",
-        "url": "https://army-team.foroactivo.com/h7-juegos"",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/JUEGOS.png"",
+        "url": "https://army-team.foroactivo.com/h7-juegos",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/JUEGOS.png",
         "type": "webview"
     },
     {
