@@ -6,7 +6,7 @@
         "name": "ES: Suelto Canal",
         "url": "https://army-team.foroactivo.com/h4-peliculas",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
-        "type": "exoplayer"
+        "type": "webview"
       }
     },
     {
@@ -18,12 +18,14 @@
           {
             "name": "ES: LIGA DE CAMPEONES 2 SD",
             "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
-            "logoUrl": "https://th.bing.com/th/id/OIP.oGboIhWoPI_i5PSD6gtGIgAAAA?rs=1&pid=ImgDetMain"
+            "logoUrl": "https://th.bing.com/th/id/OIP.oGboIhWoPI_i5PSD6gtGIgAAAA?rs=1&pid=ImgDetMain",
+            "type": "exoplayer"
           },
           {
             "name": "ES: LIGA DE CAMPEONES 1 HD",
             "url": "http://247847841746321276.ofse0829.xyz:80/live/fe928827/ufAfU8s9bH/321276.m3u8",
-            "logoUrl": "https://th.bing.com/th/id/OIP.oGboIhWoPI_i5PSD6gtGIgAAAA?rs=1&pid=ImgDetMain"
+            "logoUrl": "https://th.bing.com/th/id/OIP.oGboIhWoPI_i5PSD6gtGIgAAAA?rs=1&pid=ImgDetMain",
+            "type": "exoplayer"
           }
         ]
       }
@@ -34,7 +36,7 @@
         "name": "ES: Televisión",
         "url": "https://army-team.foroactivo.com/h2-television",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION.png",
-        "type": "exoplayer"
+        "type": "webview"
       }
     },
     {
@@ -43,7 +45,7 @@
         "name": "ES: Noticias Canal",
         "url": "https://army-team.foroactivo.com/h3-noticias",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/NOTICIAS.png",
-        "type": "exoplayer"
+        "type": "webview"
       }
     }
   ]
