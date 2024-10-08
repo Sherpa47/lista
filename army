@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "ES: DAZN 1",
+        "url": "https://army-team.foroactivo.com/h73-dazn1?id=DAZN_1_ES",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+        "type": "webview"
+    },
+    {
+        "id": 2,
+        "name": "ES: LIGA DE CAMPEONES 1 HD",
+        "url": "https://army-team.foroactivo.com/h2-television",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+        "type": "webview"
+    }
+]
