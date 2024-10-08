@@ -9,151 +9,151 @@
         "id": 2,
         "name": "Cope",
         "src": "https://flucast-m04-06.flumotion.com/cope/net1.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/cope.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/cope.png"
     },
     {
         "id": 3,
         "name": "Onda Cero",
         "src": "https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/ondacero.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/ondacero.png"
     },
     {
         "id": 4,
         "name": "Rne",
         "src": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/rne.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/rne.png"
     },
     {
         "id": 5,
         "name": "esRadio",
         "src": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/esradio.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/esradio.png"
     },
     {
         "id": 6,
         "name": "Radio 5",
         "src": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r5_madrid_main.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/radio5.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/radio5.png"
     },
     {
         "id": 7,
         "name": "Radio Marca",
         "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/marca.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/marca.png"
     },
     {
         "id": 8,
         "name": "Rac1",
         "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/rac1.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/rac1.png"
     },
     {
         "id": 9,
         "name": "Catalunya Ràdio",
         "src": "https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/cataluña.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/cataluña.png"
     },
     {
         "id": 10,
         "name": "Canal Sur Radio",
         "src": "https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/master.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/canalsur.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/canalsur.png"
     },
     {
         "id": 11,
         "name": "Euskadi Irratia",
         "src": "https://eitb-live-dvr.global.ssl.fastly.net/live-content/euskadirratia-hls/master.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/euskadi.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/euskadi.png"
     },
     {
         "id": 12,
         "name": "Radio Galega",
         "src": "http://wecast-b02-03.flumotion.com/radiogalega/live.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/galicia.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/galicia.png"
     },
     {
         "id": 13,
         "name": "Los40",
         "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/los40.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/los40.png"
     },
     {
         "id": 14,
         "name": "Cadena Dial",
         "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/dial.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/dial.png"
     },
     {
         "id": 15,
         "name": "Cadena 100",
         "src": "https://cadena100-cope.flumotion.com/chunks.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/cadena100.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/cadena100.png"
     },
     {
         "id": 16,
         "name": "Europa FM",
         "src": "https://livefastly-webs.europafm.com/europafm/audio/master.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/europafm.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/europafm.png"
     },
     {
         "id": 17,
         "name": "Rock FM",
         "src": "https://rockfm-cope.flumotion.com/playlist.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/rockfm.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/rockfm.png"
     },
     {
         "id": 18,
         "name": "Radio 3",
         "src": "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r3_main.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/radio3.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/radio3.png"
     },
     {
         "id": 19,
         "name": "Los40 Classic",
         "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/los40classic.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/los40classic.png"
     },
     {
         "id": 20,
         "name": "Kiss FM",
         "src": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/kiss.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/kiss.png"
     },
     {
         "id": 21,
         "name": "Radiolé",
         "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/radiole.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/radiole.png"
     },
     {
         "id": 22,
         "name": "Canal Fiesta Radio",
         "src": "https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/canalfiesta.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/canalfiesta.png"
     },
     {
         "id": 23,
         "name": "Flaix FM",
         "src": "https://flaixfm.streaming-pro.com:8001/flaixfm.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/flaix.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/flaix.png"
     },
     {
         "id": 24,
         "name": "Flaixbac",
         "src": "https://flaixbac.streaming-pro.com:8007/flaixbac.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/flaixbac.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/flaixbac.png"
     },
     {
         "id": 25,
         "name": "Rac 105",
         "src": "https://streaming.rac105.cat/",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/rac105.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/rac105.png"
     },
     {
         "id": 26,
         "name": "Ràdio Tele-Taxi",
         "src": "https://radiott-web.streaming-pro.com:6103/radiott.mp3",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/logoUrlnes/main/Logos_Emisoras/taxi.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/taxi.png"
     },
     {
         "id": 27,
