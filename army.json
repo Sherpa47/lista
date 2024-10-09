@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Televisión",
+        "name": "Tele",
         "url": "https://army-team.foroactivo.com/h2-television",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION2.png",
         "type": "webview"
