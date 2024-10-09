@@ -9,7 +9,7 @@
     {
         "id": 2,
         "name": "Radio",
-        "url": "https://army-team.foroactivo.com/h178-juego",
+        "url": "	https://army-team.foroactivo.com/h1-inicio",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/RADIO.png",
         "type": "webview"
     },
