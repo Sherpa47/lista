@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Tele",
+        "name": "Televisión",
         "url": "https://army-team.foroactivo.com/h2-television",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION2.png",
         "type": "webview"
@@ -10,7 +10,7 @@
         "id": 2,
         "name": "Radio",
         "url": "https://army-team.foroactivo.com/h174-exoplayer",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/RADIO.png",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Inicio/TELEVISION2.png",
         "type": "webview"
     },
     {
