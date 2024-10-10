@@ -1,0 +1,20 @@
+[
+    {
+        "name": "LA 1 - OPC2",
+		"logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/rne.png",
+        "uri": "https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
+        "key": "d0D4rkIjzluikwKPf3jxwQ",
+        "kid": "o6vERSXu87Cnr5E4qdvjSg",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+    },
+    {
+        "name": "LA 2",
+		"logoUrl": "https://raw.githubusercontent.com/Sherpa47/Imagenes/main/Logos_Emisoras/rne.png",
+        "uri": "https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd",
+        "kid": "7NfudeDojyZ6zmvX2dcNgw",
+        "key": "6xltKy3ChBj0ZVMsXRGCwA",
+        "drm_scheme": "clearkey",
+        "extension": "mpd"
+    }
+]
